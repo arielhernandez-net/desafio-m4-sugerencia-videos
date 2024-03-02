@@ -63,6 +63,6 @@
         "series"
     );
     series.playMultimedia();
-    reproductorSeries.setInicio(130);
-    
+    series.setInicio(130);
+
 })();
